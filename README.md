@@ -60,4 +60,3 @@ Relationships were established between fact and dimension tables:
 
 - Average Shipping Time
 
-Categories and subcategories were set as hierarchies for drill-down capability in visuals.
